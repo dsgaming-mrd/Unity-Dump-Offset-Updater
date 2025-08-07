@@ -1,0 +1,47 @@
+{
+    "UnityEngine": {
+        "Camera": {
+            "fields": [
+                "onPreCull",
+                "onPreRender",
+                "onPostRender"
+            ],
+
+            "methods": [
+                {"name": "get_main", "args": 0},
+                {"name": "WorldToViewportPoint", "args": 2}
+            ]
+        },
+
+        "Transform": {
+            "methods": [
+                {"name": "get_position", "args": 0}
+            ]
+        },
+
+        "Component": {
+            "methods": [
+                {"name": "get_transform", "args": 4}
+            ]
+        }
+    },
+
+    "System": {
+        "String": {
+            "methods": [
+                {"name": "CreateString", "args": 1}
+            ]
+        },
+
+        "Console": {
+            "fields": [
+                "inputEncoding",
+                "outputEncoding"
+            ],
+
+            "methods": [
+                {"name": "SetEncodings", "args": 2}
+            ]
+        }
+    }
+}

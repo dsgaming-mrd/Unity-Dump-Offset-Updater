@@ -1,0 +1,7 @@
+{
+    "file_path": "dump/dump.cs",
+    "output_file": "DarkOffsets.h",
+    "offset_type": "VA",
+    "obfuscate": true,
+    "avoid_dup": true
+}
