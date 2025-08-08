@@ -1,11 +1,12 @@
 
 # Unity Dump Offset Updater – By DS Gaming (Mr D)
 
-Tool dùng để tự động phân tích `dump.cs` từ game Unity (Il2Cpp) và sinh ra file header `.h` chứa các offset `fields`, `methods` phục vụ cho cheat/mod game.
+Tool dùng để tự động phân tích `dump.cs` từ game Unity (Il2Cpp) và sinh ra file header `.h` chứa các offset `fields`, `methods` phục vụ cho cheat/mod game.  
+Tool hoạt động trên hệ điều hành **Windows**.
 
 ---
 
-## 🧪 Hướng dẫn sử dụng (Demo)
+## 🧪 Hướng dẫn sử dụng
 
 
 ### 📁 Chuẩn bị:
