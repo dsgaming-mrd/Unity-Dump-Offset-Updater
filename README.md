@@ -7,6 +7,7 @@ Tool dùng để tự động phân tích `dump.cs` từ game Unity (Il2Cpp) và
 
 ## 🧪 Hướng dẫn sử dụng (Demo)
 
+
 ### 📁 Chuẩn bị:
 
 1. File `dump.cs` từ Il2CppDumper → đặt tại:
@@ -66,11 +67,11 @@ dump/dump.cs
 ### ▶️ Cách chạy:
 
 
-**click vào tệp `.exe`:**
+**Click vào tệp `.exe`:**
 
 ```bash
 
-Tool Update Offset.exe
+Tool.exe
 
 ```
 
@@ -78,7 +79,7 @@ Tool Update Offset.exe
 
 ### 📤 Kết quả:
 
-Tool sẽ tạo file:
+Tool sẽ tạo ra file:
 
 ```
 
@@ -99,4 +100,5 @@ uint64_t _class_method = ENCRYPTOFFSET("0x12345678");
 Tool Created By DS Gaming - Mr D
 ---
 Ủng hộ tôi bằng cách mua hack: [**Tại đây**](https://shopdsgm.vn)
+
 Web Tool miễn phí: [**Tại đây**](https://tool.shopdsgm.vn)
