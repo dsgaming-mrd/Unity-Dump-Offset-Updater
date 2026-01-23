@@ -21,7 +21,7 @@ dump/dump.cs
 
 ---
 
-2. Tạo file `config.json`:
+2. Tạo file `config.json` hoặc `config.jsonc`:
 
 ```json
 {
@@ -44,7 +44,7 @@ dump/dump.cs
 
 ---
 
-3. Tạo file `function.json`:
+3. Tạo file `function.json` hoặc `function.jsonc`:
 
 ```json
 {
