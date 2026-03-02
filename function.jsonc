@@ -21,7 +21,7 @@
 
         "Component": {
             "methods": [
-                {"name": "get_transform", "args": 4}
+                {"name": "get_transform", "args": 0}
             ]
         }
     },
